@@ -1,0 +1,1 @@
+{"Target":{"Guid":"fb865ae7-1728-4c3a-9331-3f2fee519601","Ancestry":[{"IsSelected":true,"Selector":"<wnd app=\"chrome.exe\" cls=\"Chrome_WidgetWin_1\" idx=\"*\"/>","ValidAttributes":{"app":"chrome.exe","cls":"Chrome_WidgetWin_1","aastate":"veränderbar, markierbar"}},{"IsSelected":true,"Selector":"<ctrl role=\"pane\"/>","ValidAttributes":{"role":"pane","aastate":"opaque"}}]}}

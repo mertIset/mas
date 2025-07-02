@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I8ERxeyWVEONyU7G0oU67Q" Reference="J4y8ozQdHkycG6FLhKj00g/2Rf_qqTmJUaHlLrWr-Fx8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="185, 881, 208, 28" Guid="e62c81c9-fede-4521-96dc-e6b5e7108bb3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANAAAAAcCAYAAAAQjjG7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEYSURBVHhe7djRjYMwEEXRbdJ9oFQS+oj7IH24j9nYOPIgK9Gal5UCukfyRzDhi6sBfgzAbgQECAgIEBAQICAgQEBAgICAAAEBAQICAgRrQCnaFGZbyg/n1fEd0m2ycP3ElYDvQUCAgIAAwXhA99lCCHVNFlM9Xi3X515e7b9rQNHipe3P97oJHJQLyN/4frmASjw+qMVmF1E3ZfL5l2h5u+z54LprAcczNIHydJlu25HTokmP6dJPJEupBbR5hNvGBxzRQEA5kP6xq4XxPggCwhn9/wSqCAhnNPYR4S/vQPWdp3DnExDOaCygrETx/MDQB/D+KxwB4VzWgADsQkCAgIAAAQEBAgICBAQECAgIEBAQICAgYDezXxM3Ago4rXU3AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Camunda Tasklist' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="c6421c46bf322a78732a7b39e1719078.png" xmlns="">0qDwlg3Jn602lEzD_NvpfJQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

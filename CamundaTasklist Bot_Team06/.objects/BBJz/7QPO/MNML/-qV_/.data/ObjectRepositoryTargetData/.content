@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e6tlO47ogEGSl07fIrgVdA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="camunda25.f4.htw-berlin.de/camunda/app/tasklist/default" CVScreenId="e08b2479-b787-457e-899e-353c5ad0acfe" CvElementArea="168, 310, 558, 36" CvType="InputBox" DesignTimeRectangle="169, 311, 558, 34" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='form-control ng-pristine ng-valid ng-valid-cam-variable-type ng-empty ng-touched' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ae55940f-77b3-4968-80d5-243492e38b07" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Camunda Tasklist' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e08b2479-b787-457e-899e-353c5ad0acfe" CvTextArea="167, 289, 85, 13" CvTextArgument="Firmenname" CvType="Text" DesignTimeRectangle="169, 286, 83, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='       Firmenname     ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Firmenname' /&gt;" Guid="ccbe1f1b-bcd5-4fbc-8bd1-9ece123ef6f9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="50d994ab91c665be721014c60ac84d83.png" xmlns="">0uu5riNbt_E-f0HhE32cBjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

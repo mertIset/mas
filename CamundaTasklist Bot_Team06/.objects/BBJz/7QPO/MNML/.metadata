@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Camunda Tasklist",
+  "Type": "Screen",
+  "Id": "MNMLMeHjVECkl0mJQXahtg",
+  "Reference": "J4y8ozQdHkycG6FLhKj00g/MNMLMeHjVECkl0mJQXahtg",
+  "ParentRef": "J4y8ozQdHkycG6FLhKj00g/7QPO5QPhbE2QW4LvVFfcTw",
+  "Created": "2025-06-24T14:17:21.7515553Z",
+  "Updated": "2025-06-24T14:17:21.7515553Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

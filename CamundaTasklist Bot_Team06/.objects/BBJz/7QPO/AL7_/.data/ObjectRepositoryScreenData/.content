@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="gJ6akxP5u0S88TP8GzVa-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-7, 0, 910, 1047" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAInSURBVDhPjVI7aFVBEF2/IFr4KdRGLSwshCDEQisRhWAR/O3nPoxgiieiSELi7r7XeIkpRAQbA35KEQtJ4wfRRgS7xCLCfe/ujSaiksJvIyIm5Hlm3yQSE9SBYXZmz5mZnVnxpxTO9BY22c+uyFK5PLemld2/y7tuuSI4PQkda0i5hGK5V53BqYkI+B/Jnb6GBA1UPRp9r/uD1c/p/NrJTbgbQpcl8mel7szuwqm7tZ7S5nrl0LrC6S9I9KIhxKLgzI3g9cB418HVINcpeeFVwtSmjHqzAxdfAf6U+6Qtt7orAq0+jOoPC2/KSHKfYsDcYtpcoeoAPINOo4MrILyhLkiDVY+aZJ2N9HasZMp8aaTpYlQ8A+A3JpD+YDuFpDthW9DZCeAuo9u9GFLSFrxJC2vOBms6MLx2gAx0nIkzStuhxD8xxGFs5mqtqreLujdb0PLJ3BuH4fQVVl2MT8AqmTijH1D1OuzxUFEH6G/QkLn53/LKy60ADQL8FnaKyaRDVAQzuUdbijGvepjGnwjvwsV3bOES7CDafAD7HjoN/QjybfqZcVaVZNvTdM9SpgsBQIYhjVBrAJ6KG/BaIulN3N3h+wHEHy+4CQBahsvlZaMVuYuqxadYdT535kJ2Tm5A7DOd+Ws/YdpceelLa+L+sQnyccbnMafjubmZyVr12EZKSLF5knXLtdjEPnZBUhPwj7CLhEZjBqvY/bfQeseqyXp2FxAhfgEF22z559DTgwAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='RPA Bot Development with UiPath Studio X - Claude' /&gt;" Url="https://claude.ai/chat/4ceee588-2093-4e8c-bd71-327c4bd1ab9c" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="74299fe898eadfc50094dd88024223da.jpg" xmlns="">036esO175dkCiuMg4zPPTIg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

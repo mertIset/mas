@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fXm07foGekmyjqSB4F0V_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="camunda25.f4.htw-berlin.de/camunda/app/tasklist/default" CVScreenId="2fd88d1a-8832-492f-bcf6-910044d7848c" CvElementArea="469, 218, 265, 36" CvType="InputBox" DesignTimeRectangle="470, 219, 264, 34" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="08f02a3f-7f8b-48ac-a724-d82d952a4201" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Camunda Tasklist' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="8cc9e39e1bcd861540a7192b606075c9.png" xmlns="">02-UqnqkWE0aAbf9WhPhQmw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

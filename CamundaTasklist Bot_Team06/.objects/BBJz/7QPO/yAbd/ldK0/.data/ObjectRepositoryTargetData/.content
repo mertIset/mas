@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ngsvojkzpUaZdYYZ19Y9-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="camunda25.f4.htw-berlin.de/camunda/app/welcome/default" CVScreenId="eaf2d5d4-5603-4c13-80cf-0794e8992736" CvElementArea="261, 514, 388, 36" CvType="InputBox" DesignTimeRectangle="262, 515, 387, 34" ElementType="InputBoxPassword" FullSelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" Guid="77585cb4-6977-4039-a018-43c1440ca0ea" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Camunda Welcome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="161b8b271f062816a43884bc2fbda793.png" xmlns="">0qOT0PsCkZkmWc3cJ5T6KaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

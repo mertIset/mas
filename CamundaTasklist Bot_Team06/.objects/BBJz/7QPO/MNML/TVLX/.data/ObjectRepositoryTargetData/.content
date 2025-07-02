@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j2BfCbRvuk6dCMfq2XBWDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="camunda25.f4.htw-berlin.de/camunda/app/tasklist/default" CVScreenId="b734c216-54de-49c5-b581-30bbebff0f73" CvElementArea="260, 615, 390, 48" CvTextArea="430, 630, 49, 20" CvTextArgument="Log in" CvType="Button" DesignTimeRectangle="262, 616, 387, 46" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="451617c1-9fcc-4daa-99d7-ab7478fd4552" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Camunda Tasklist' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="9ccaf09addaddeb74dd1f6ef96a706a6.png" xmlns="">0adVT_cn9YE682OpmYr691Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cpNlU5H_Gk-wRWFqW7mA-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="camunda25.f4.htw-berlin.de/camunda/app/tasklist/default" CVScreenId="2ffa5140-4308-4e96-87ae-b3507271edaf" CvElementArea="169, 828, 557, 36" CvType="InputBox" DesignTimeRectangle="169, 829, 558, 34" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='budget' tag='INPUT' type='text' class='form-control ng-pristine ng-untouched ng-valid ng-valid-cam-variable-type ng-empty' aaname='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="011d54ee-c00f-4fe3-90ce-88d7d118867b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Camunda Tasklist' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2ffa5140-4308-4e96-87ae-b3507271edaf" CvTextArea="168, 807, 48, 16" CvTextArgument="Budget" CvType="Text" DesignTimeRectangle="169, 804, 47, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='       Budget     ' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Budget' /&gt;" Guid="ca4e6a52-fee0-4b84-b032-e326022b4b1a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5247c117400390604dab20cbc1d3d9b6.png" xmlns="">0OhAo4N6nx0Krir54F_T2lg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

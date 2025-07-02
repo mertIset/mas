@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Bot Development with UiPath Studio",
+  "Type": "Screen",
+  "Id": "N6x1EgOTO0SwdzKdr0CYkA",
+  "Reference": "J4y8ozQdHkycG6FLhKj00g/N6x1EgOTO0SwdzKdr0CYkA",
+  "ParentRef": "J4y8ozQdHkycG6FLhKj00g/7QPO5QPhbE2QW4LvVFfcTw",
+  "Created": "2025-06-24T14:16:38.3712199Z",
+  "Updated": "2025-06-24T14:16:38.3712199Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

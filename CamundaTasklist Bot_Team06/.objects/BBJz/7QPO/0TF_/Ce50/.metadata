@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tasklist",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Ce50rB0Oo0K8qjuNQGMmEA",
+  "Reference": "J4y8ozQdHkycG6FLhKj00g/Ce50rB0Oo0K8qjuNQGMmEA",
+  "ParentRef": "J4y8ozQdHkycG6FLhKj00g/0TF_ohQaPUiH4EUY--ymtA",
+  "Created": "2025-06-24T14:12:36.6542137Z",
+  "Updated": "2025-06-24T14:12:36.6542137Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
